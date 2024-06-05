@@ -6,4 +6,10 @@ body{
     margin: 0;
     padding: 0;
     background-image: url('images/css1.png');
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    color: #333;
+    text-align: center;
 }
