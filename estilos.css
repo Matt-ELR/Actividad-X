@@ -44,3 +44,13 @@ h2{
 li{
     list-style-type: none;
 }
+button{
+    border-radius: 10px;
+    border: solid 5px rgb(133, 28, 254);
+    text-align: center;
+    background-color: rgb(54, 54, 54, );
+    margin: 10px 10px 20px;
+}
+img{
+    margin-left: auto;
+}
