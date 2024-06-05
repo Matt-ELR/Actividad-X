@@ -2,14 +2,29 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #FFFF;
-    color:black ;
+    color:rgb(255, 255, 255) ;
     margin: 0;
     padding: 0;
     background-image: url('images/css1.png');
     background-size: cover;
-    background-position: center;
+    background-attachment: fixed;
 }
 h1 {
-    color: #333;
+    color: white;
     text-align: center;
+}
+p{
+    text-align: center;
+    margin: 100px 0;
+
+}
+h3{
+    text-align: center;;
+}
+#div1{
+    background-color: rgb(195, 194, 255);
+    padding-top: 100px;
+    text-align: center;
+    font-size: 50px;
+    border-top: solid 20px rgb(215, 11, 11);
 }
