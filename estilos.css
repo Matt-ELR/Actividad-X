@@ -39,4 +39,5 @@ h2{
     font-size: medium;
     border: solid 5px rgb(133, 28, 254);
     margin: 10px 50px;
+    list-style-type: none;
 }
