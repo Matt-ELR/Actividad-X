@@ -1,4 +1,14 @@
-
+.divmenu{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: solid 3px;
+}
+.divmenu nav a{
+    color: white;
+    text-decoration: none;
+    margin: 2px 30px;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #FFFF;
@@ -35,7 +45,6 @@ h2{
 .div2{
     background-color: rgba(0, 0, 0, .9);
     padding: 10px;
-    border-radius: 10px;
     text-align: center;
     font-size: medium;
     border: solid 5px rgb(133, 28, 254);
