@@ -33,8 +33,9 @@ h2{
     text-align: center;
 }
 .div2{
-    background-color: rgba(0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .8);
     padding: 10px;
+    border-radius: 10px;
     text-align: center;
     font-size: medium;
     border: solid 5px rgb(133, 28, 254);
