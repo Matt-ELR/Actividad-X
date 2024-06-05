@@ -1,0 +1,9 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFFF;
+    color:black ;
+    margin: 0;
+    padding: 0;
+    background-image: url('images/css1.png');
+}
